@@ -11,7 +11,3 @@ const app = express();
 app.get('/', resHandler);
 
 app.listen(3000);
-
-/*
-
-*/
